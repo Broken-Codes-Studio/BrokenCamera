@@ -74,7 +74,7 @@ Create custom follow and look-at behaviors by inheriting from the `FollowMode` a
 Add the repository as a submodule:
 
 ```bash
-git submodule add <repository-url> addons/BrokenCamera
+git submodule add https://github.com/Broken-Codes-Studio/BrokenCamera.git addons/BrokenCamera
 git submodule update --init --recursive
 ```
 
