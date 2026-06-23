@@ -3,6 +3,9 @@
   <a href="https://godotengine.org/download/windows/">
       <img alt="Static Badge" src="https://img.shields.io/badge/Godot-4.6%2B-blue">
   </a>
+  <a href="LICENSE">
+    <img alt="GitHub License" src="https://img.shields.io/github/license/Broken-Codes-Studio/BrokenSigil">
+  </a>
 </p>
 
 # 🎥 What is it?
@@ -83,7 +86,7 @@ Project > Project Settings > Plugins
 
 ### GitHub Download
 
-1. Download the latest version from the repository.
+1. Download the latest [`main branch`](https://github.com/Broken-Codes-Studio/BrokenCamera/archive/refs/heads/main.zip).
     
 2. Extract the archive.
     
